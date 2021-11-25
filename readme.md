@@ -16,8 +16,8 @@
 * 图像处理
 
 1. 深入学习
-    1. 神经网络模拟
-        1. 状态机
+  1. 神经网络模拟
+    1. 状态机
 2. 音频处理
 3. 图像处理
 
@@ -29,4 +29,5 @@
 我们可以在[GIT](https://git-scm.com/download "GIT下载入口")下载GIT官方软件
 
 我们可以在[GIT][1]下载GIT官方软件
+
 [1]:https://git-scm.com/download "GIT下载入口"
