@@ -33,4 +33,13 @@
 
 [1]:https://git-scm.com/download "GIT下载入口"
 
-![图片.jpg](https://i.loli.net/2021/11/25/5raUKjiE2R9OkWM.jpg)
+![图片.jpg](https://i.loli.net/2021/11/25/5raUKjiE2R9OkWM.jpg
+
+```c
+#include <stdio.h>
+int main()
+{
+	printf("Hello World");
+	return 0;
+}
+```
